@@ -1,0 +1,28 @@
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  color: black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-size: 40px;
+}
+.material-symbols-outlined:hover {
+    cursor: pointer;
+    background-color: rgb(146, 150, 152);
+}
+#saveButton{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    margin: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
